@@ -31,7 +31,4 @@ class Square{
     fill(c);
     square(x, y, size);
   }
-  
-
-
 }
